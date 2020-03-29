@@ -59,5 +59,4 @@ public class PatientManagement {
             System.out.println(p.toString());
         }
     }
-
 }
